@@ -16,5 +16,9 @@ Make sure you don’t miss out:
 
 ---
 
-🌟 *Your patience will be rewarded.* 🌟  
+🌟 *Your patience will be rewarded.* 🌟
+  
+## **Edit**
+I have published a tool called gitrepomakerC# to easily make git repos, go check it out if you need that tool :)
 
+## **And again, stay tuned!**
