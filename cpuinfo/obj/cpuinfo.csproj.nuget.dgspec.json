@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/daniil/bigproject/cpuinfo/cpuinfo.csproj",
         "projectName": "cpuinfo",
         "projectPath": "/home/daniil/bigproject/cpuinfo/cpuinfo.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/daniil/.nuget/packages/",
         "outputPath": "/home/daniil/bigproject/cpuinfo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/daniil/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,6 +58,18 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[8.0.10, 8.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -66,6 +78,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }
