@@ -1,0 +1,1 @@
+This is the repo maker written in C#, it is already compiled for linux but sadly its not for windows. for linux users, if you want to run it, go to the publish folder then chmod +x ./bigproject and then you can run it.
