@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PwPU96c6SCo1Iq5gIHPhcO6GfGNqE3Qku5hJRmPS5Azwrwz4MTZpQ+hyB7o/5YzhdtvZCqSmy4pCzCnsZgMxRA==",
+  "success": true,
+  "projectFilePath": "/home/daniil/bigproject/gitrepomakerC#/bigproject.csproj",
+  "expectedPackageFiles": [
+    "/home/daniil/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
