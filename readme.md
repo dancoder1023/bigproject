@@ -21,4 +21,7 @@ Make sure you don’t miss out:
 ## **Edit**
 I have published a tool called gitrepomakerC# to easily make git repos, go check it out if you need that tool :)
 
+## **Edit 2**
+Made a tool called cpuinfo, it shows what gpu, ram and cpu you have. go check it out :)
+
 ## **And again, stay tuned!**
