@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLw0AzTEhTe5zGneoCUaXGZl6534O6Ox2CvjeqMzJT38VLujDAuPfzj92IaPL90LP44Xry86jy1SsaMyHeblog==",
+  "success": true,
+  "projectFilePath": "/home/daniil/bigproject/cpuinfo/cpuinfo.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/system.codedom/9.0.0/system.codedom.9.0.0.nupkg.sha512",
+    "/root/.nuget/packages/system.management/9.0.0/system.management.9.0.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
