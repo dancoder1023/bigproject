@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3JJkJyj6J5/OheyfbuzMrsGeNgDqGbl996j4dxvVmsn8hnMm+32UCYTwg8vAAh5kAoL3pFhLlp6C6JxGWRjtiw==",
+  "success": true,
+  "projectFilePath": "/home/daniil/bigproject/passwordmanager/passwordmanager.csproj",
+  "expectedPackageFiles": [
+    "/home/daniil/.nuget/packages/microsoft.net.illink.tasks/8.0.10/microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "/home/daniil/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.10/microsoft.netcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "/home/daniil/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512",
+    "/home/daniil/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.10/microsoft.aspnetcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "/home/daniil/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.10/microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
