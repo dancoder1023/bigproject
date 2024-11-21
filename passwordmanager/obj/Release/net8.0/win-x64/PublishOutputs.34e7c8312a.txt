@@ -1,2 +1,0 @@
-/home/daniil/bigproject/passwordmanager/bin/Release/net8.0/win-x64/publish/passwordmanager.pdb
-/home/daniil/bigproject/passwordmanager/bin/Release/net8.0/win-x64/publish/passwordmanager.exe
