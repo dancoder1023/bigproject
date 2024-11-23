@@ -1,0 +1,5 @@
+/home/daniil/bigproject/passwordmanager/bin/Release/net8.0/osx-x64/publish/passwordmanager
+/home/daniil/bigproject/passwordmanager/bin/Release/net8.0/osx-x64/publish/passwordmanager.dll
+/home/daniil/bigproject/passwordmanager/bin/Release/net8.0/osx-x64/publish/passwordmanager.deps.json
+/home/daniil/bigproject/passwordmanager/bin/Release/net8.0/osx-x64/publish/passwordmanager.runtimeconfig.json
+/home/daniil/bigproject/passwordmanager/bin/Release/net8.0/osx-x64/publish/passwordmanager.pdb

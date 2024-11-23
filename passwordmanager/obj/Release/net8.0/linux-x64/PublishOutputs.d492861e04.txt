@@ -1,0 +1,2 @@
+/home/daniil/bigproject/passwordmanager/bin/Release/net8.0/linux-x64/publish/passwordmanager.pdb
+/home/daniil/bigproject/passwordmanager/bin/Release/net8.0/linux-x64/publish/passwordmanager
